@@ -1,11 +1,11 @@
-<img src='_images_/logo.png'>
+<center> <img src='_images_/logo.png' width="50%"> </center>
 
 Tonight we'll play an easy box, the one which I choose is Cap.
 
 # Footprint
 Once the box is started, i run an Nmap scan against the target, which revealed the presence of a software called _gunicorn_ running on port 80.
 
-<img src='_images_/nmap.png'>
+<center> <img src='_images_/nmap.png' width="50%"> </center>
 
 Let's visit it!
 
